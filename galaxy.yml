@@ -1,0 +1,21 @@
+---
+
+namespace: 'superstes'
+name: 'multi_vault'
+version: 1.0.0
+readme: 'README.md'
+authors:
+  - 'Rath Rene <rene.rath@superstes.eu>'
+description: "Ansible Action-Plugin to add multi-value functionality to Ansible-Vault"
+license_file: 'LICENSE.txt'
+tags:
+  - 'vault'
+  - 'ansiblevault'
+  - 'decryption'
+  - 'decrypt'
+dependencies: {}
+repository: 'https://github.com/superstes/ansible_multi_vault'
+documentation: 'https://github.com/superstes/ansible_multi_vault/Examples.md'
+homepage: 'https://github.com/superstes'
+issues: 'https://github.com/superstes/ansible_multi_vault/issues'
+build_ignore: []

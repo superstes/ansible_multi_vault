@@ -1,5 +1,7 @@
 # Ansible Vault - Multi Value Functionality
 
+[![Ansible Galaxy](https://img.shields.io/ansible/collection/2356)](https://galaxy.ansible.com/superstes/multi_vault)
+
 This Ansible [Action Plugin](https://docs.ansible.com/ansible/latest/plugins/action.html) enables to use you multi-valued Ansible-Vault entries.
 
 ## WHY?
